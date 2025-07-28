@@ -10,4 +10,4 @@ I applied the following NLP techniques:
 * Data Visualization: The core visualizations include a scatter plot displaying tweets based on their positive and negative features, with positive tweets in green and negative in red. The decision boundary of the trained logistic regression model is also plotted as a gray line, along with green and red arrows indicating the direction of positive and negative sentiment, respectively.
   
 ---
-For details, please refer to the [Jupyter Notebook file.]()
+For details, please refer to the [Jupyter Notebook file.](https://github.com/larisanti/tweet-logistic-regression-nlp.ipynb/blob/main/tweet_logistic_regression_nlp.ipynb)
