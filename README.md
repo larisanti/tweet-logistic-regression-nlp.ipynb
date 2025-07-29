@@ -1,6 +1,6 @@
 # Tweet Sentiment Analysis with Logistic Regression Visualization
 
-This notebook documents a lab exercise where I explored logistic regression for tweet sentiment analysis, a key concept from the "Natural Language Processing with Classification and Vector Spaces" course. It features key visualizations, including a scatter plot of tweets based on their positive and negative features, and the decision boundary of a trained logistic regression model.
+This notebook documents a lab exercise where I explored logistic regression for tweet sentiment analysis, a key concept from the *"Natural Language Processing with Classification and Vector Spaces"* (DeepLearning.AI) course. It features key visualizations, including a scatter plot of tweets based on their positive and negative features, and the decision boundary of a trained logistic regression model.
 
 ---
 I applied the following NLP techniques:
